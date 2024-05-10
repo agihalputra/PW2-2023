@@ -38,6 +38,15 @@
                 <li class="nav-item d-none d-sm-inline-block">
                     <a href="periksa" class="nav-link">Periksa</a>
                 </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a href="periksa" class="nav-link">Kelurahan</a>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a href="periksa" class="nav-link">Users</a>
+                </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a href="periksa" class="nav-link">Unit Kerja</a>
+                </li>
             </ul>
 
             <!-- Right navbar links -->
